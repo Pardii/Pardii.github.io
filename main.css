@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    background: url(bg3.png);
+    color: rgb(255, 255, 255);;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-origin: initial;
+    box-sizing: border-box;
+}
+main {
+    background-color: rgb(94, 94, 94);
+    border: 10px solid white;
+    border-style: double;
+    margin-top: 50px;
+    width: 400px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+}
+.logo {
+    text-align: center;
+    padding-top: 15px;
+    border: 0px solid black;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 20px;
+}
+span {
+    font-size: 20px;
+    padding-left: auto;
+    padding-right: auto;
+}
+#youtube{
+    padding-left: 5px;
+    padding-right: 20px;
+    padding-left: auto;
+    padding-right: auto;
+}
+#steam {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-left: auto;
+    padding-right: auto;
+}
+#spotify {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-left: auto;
+    padding-right: auto;
+}
+#picture {
+    border: 5px solid black;
+    width: 184px;
+    height: 184px;
+}
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
