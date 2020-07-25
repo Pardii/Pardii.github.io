@@ -2,7 +2,6 @@ body {
     font-family: sans-serif;
     background: url(bg3.png);
     color: rgb(255, 255, 255);;
-    height: auto;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
